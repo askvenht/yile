@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "DW6101",
+    "season": "aw",
+    "name": "长绒棉毛衫",
+    "material": "可机洗100%烧毛丝光长绒棉",
+    "neck": "",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW6101",
+      "季节": "秋冬款",
+      "材质": "可机洗100%烧毛丝光长绒棉",
+      "肌理": "打花",
+      "针种": "16G",
+      "颜色": "SL070",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/00664d9519b35aaa3b.webp",
+      "assets/dc4d992dbab8fc8db3.webp",
+      "assets/17a416d29c86c5123a.webp",
+      "assets/7f85c12c000bfbc0b7.webp"
+    ],
+    "sourcePage": 4,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DW6901",
+    "season": "aw",
+    "name": "羊毛翻领毛衫",
+    "material": "100%羊毛",
+    "neck": "翻领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW6901",
+      "季节": "秋冬款",
+      "材质": "100%羊毛",
+      "领型": "翻领",
+      "肩型": "弯夹肩",
+      "肌理": "打机（双面）",
+      "针种": "12G",
+      "颜色": "藏青",
+      "尺码": "S–3XL",
+      "克重": "约657.8g（L）"
+    },
+    "images": [
+      "assets/96fa7bb7631c511637.webp",
+      "assets/616912b34b0fd46f9f.webp",
+      "assets/b11c4583a6af5ee045.webp"
+    ],
+    "sourcePage": 7,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DW6902",
+    "season": "aw",
+    "name": "羊毛翻领毛衫",
+    "material": "100%羊毛",
+    "neck": "翻领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW6902",
+      "季节": "秋冬款",
+      "材质": "100%羊毛",
+      "领型": "翻领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "14G",
+      "颜色": "藏青",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/99b01c7c5348372f26.webp",
+      "assets/807e3cca9ba2727934.webp",
+      "assets/17ac8cab00e5342f17.webp"
+    ],
+    "sourcePage": 9,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DW6903",
+    "season": "aw",
+    "name": "羊毛立领毛衫",
+    "material": "100%羊毛",
+    "neck": "立领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW6903",
+      "季节": "秋冬款",
+      "材质": "100%羊毛",
+      "领型": "立领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "14G",
+      "颜色": "赤褐色",
+      "尺码": "S–3XL",
+      "克重": "约614.2g（L）"
+    },
+    "images": [
+      "assets/ee6b953996c43053c7.webp",
+      "assets/3b0df8f927b626c780.webp",
+      "assets/8209cec8c1551c5a18.webp"
+    ],
+    "sourcePage": 11,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DW6904",
+    "season": "aw",
+    "name": "半高领羊毛开衫",
+    "material": "100%羊毛",
+    "neck": "半高领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW6904",
+      "季节": "秋冬款",
+      "材质": "100%羊毛",
+      "领型": "半高领",
+      "肩型": "弯夹肩",
+      "肌理": "莱卡",
+      "针种": "14G",
+      "颜色": "燕麦色",
+      "尺码": "S–3XL",
+      "克重": "约685g（L）"
+    },
+    "images": [
+      "assets/e73bb7ea309a2abd7a.webp",
+      "assets/89b699495e3930ae6f.webp",
+      "assets/7aee8f2ee5cb2a7b4f.webp"
+    ],
+    "sourcePage": 13,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DW6905",
+    "season": "aw",
+    "name": "羊毛圆领毛衫",
+    "material": "100%羊毛",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW6905",
+      "季节": "秋冬款",
+      "材质": "100%羊毛",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "7G",
+      "颜色": "黑灰色",
+      "尺码": "S–3XL",
+      "克重": "399.5g（XL码）"
+    },
+    "images": [
+      "assets/d0cd4fcafa1b2b7a9f.webp",
+      "assets/1eb8cc973c6d757f77.webp",
+      "assets/0389108ab7d9914206.webp"
+    ],
+    "sourcePage": 15,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DW6906",
+    "season": "aw",
+    "name": "羊毛羊绒混纺翻领毛衫",
+    "material": "70%羊毛30%羊绒",
+    "neck": "翻领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW6906",
+      "季节": "秋冬款",
+      "材质": "70%羊毛30%羊绒",
+      "领型": "翻领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "12G",
+      "颜色": "黑灰色",
+      "尺码": "S–3XL",
+      "克重": "约451g"
+    },
+    "images": [
+      "assets/13a42cb6c9baf1e1af.webp",
+      "assets/75c85e5084b04af422.webp",
+      "assets/51d96c8e3791df7ad5.webp"
+    ],
+    "sourcePage": 17,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DW6907",
+    "season": "aw",
+    "name": "美丽诺羊毛翻领毛衫",
+    "material": "100%美丽诺羊毛",
+    "neck": "翻领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW6907",
+      "季节": "秋冬款",
+      "材质": "100%美丽诺羊毛",
+      "领型": "翻领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "18G",
+      "颜色": "兰色",
+      "尺码": "S–3XL",
+      "克重": "约315g（L码）"
+    },
+    "images": [
+      "assets/936f86abb514607b48.webp",
+      "assets/69897d2391cd7d40f3.webp",
+      "assets/b188c33a1a4b057042.webp"
+    ],
+    "sourcePage": 19,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DW6908",
+    "season": "aw",
+    "name": "羊绒圆领毛衫",
+    "material": "100%羊绒",
+    "neck": "圆领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW6908",
+      "季节": "秋冬款",
+      "材质": "100%羊绒",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "18G",
+      "颜色": "牛油果",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/659d416fd187d2de5d.webp",
+      "assets/16d85d3fcad8861700.webp",
+      "assets/078eaf2dfa438a2e10.webp"
+    ],
+    "sourcePage": 21,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DW6909",
+    "season": "aw",
+    "name": "羊毛羊绒混纺立领毛衫",
+    "material": "70%羊毛30%羊绒",
+    "neck": "立领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW6909",
+      "季节": "秋冬款",
+      "材质": "70%羊毛30%羊绒",
+      "领型": "立领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "12G",
+      "颜色": "黑灰色",
+      "尺码": "S–3XL",
+      "克重": "约451g"
+    },
+    "images": [
+      "assets/a8612afaa9d7201481.webp",
+      "assets/fa3b3c55843ead2ec8.webp",
+      "assets/49f92be6626021b3eb.webp"
+    ],
+    "sourcePage": 23,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DW6910",
+    "season": "aw",
+    "name": "Baby 羊绒立领毛衫",
+    "material": "100%baby羊绒",
+    "neck": "立领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW6910",
+      "季节": "秋冬款",
+      "材质": "100%baby羊绒",
+      "领型": "立领",
+      "肩型": "弯夹肩",
+      "肌理": "珠地",
+      "针种": "12G",
+      "颜色": "燕麦色",
+      "尺码": "S–3XL",
+      "克重": "约497g"
+    },
+    "images": [
+      "assets/1a43ce48852cd0d169.webp",
+      "assets/e23d232f7e8c9f8027.webp",
+      "assets/ebac32893f7aa5dc1b.webp"
+    ],
+    "sourcePage": 25,
+    "sourceBook": "2026秋冬"
+  },
+  {
+    "id": "DS6101",
+    "season": "ss",
+    "name": "长绒棉海鸥领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6101",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "搬针花型",
+      "针种": "12G",
+      "颜色": "SL057",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/7dc8e38d8721093053.webp"
+    ],
+    "sourcePage": 6,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6102",
+    "season": "ss",
+    "name": "长绒棉海鸥领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6102",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "摱波",
+      "针种": "14G",
+      "颜色": "SL052",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/341ed05363ca69bafa.webp"
+    ],
+    "sourcePage": 8,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6103",
+    "season": "ss",
+    "name": "长绒棉圆领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6103",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "摱波",
+      "针种": "16G",
+      "颜色": "NM021",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/e80769ce1b4f7acb89.webp"
+    ],
+    "sourcePage": 10,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6104",
+    "season": "ss",
+    "name": "长绒棉圆领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6104",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "打花",
+      "针种": "16G",
+      "颜色": "SL066",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/56586fc8ad9f48f4ac.webp"
+    ],
+    "sourcePage": 12,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6105",
+    "season": "ss",
+    "name": "长绒棉海鸥领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6105",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "坑条",
+      "针种": "14G",
+      "颜色": "SL066",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/bd97ff9e3642b60d02.webp"
+    ],
+    "sourcePage": 14,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6106",
+    "season": "ss",
+    "name": "长绒棉圆领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6106",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "坑条",
+      "针种": "16G",
+      "颜色": "SL060",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/3d9014875ee5648ba4.webp"
+    ],
+    "sourcePage": 16,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6107",
+    "season": "ss",
+    "name": "长绒棉圆领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6107",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "令士挑孔",
+      "针种": "14G",
+      "颜色": "SL066",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/898e7f6c11904193f2.webp"
+    ],
+    "sourcePage": 18,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6108",
+    "season": "ss",
+    "name": "长绒棉圆领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6108",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "珠地",
+      "针种": "16G",
+      "颜色": "SL070",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/530f20a80346b8fdcf.webp"
+    ],
+    "sourcePage": 20,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6202",
+    "season": "ss",
+    "name": "亚麻棉圆领针织衫",
+    "material": "50%亚麻50%棉",
+    "neck": "圆领",
+    "group": "linen",
+    "specs": {
+      "款号": "DS6202",
+      "季节": "春夏款",
+      "材质": "50%亚麻50%棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "令士坑条华夫格",
+      "针种": "14G",
+      "颜色": "XA05",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/85623ae8055806b7bd.webp"
+    ],
+    "sourcePage": 24,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6301",
+    "season": "ss",
+    "name": "羊毛丝绵圆领针织衫",
+    "material": "50%羊毛50%丝绵",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS6301",
+      "季节": "春夏款",
+      "材质": "50%羊毛50%丝绵",
+      "领型": "圆领",
+      "肩型": "弯夹",
+      "肌理": "令士坑条单边",
+      "针种": "16G",
+      "颜色": "W0081",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/bcf4b32e049ef89cb8.webp"
+    ],
+    "sourcePage": 28,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6302",
+    "season": "ss",
+    "name": "羊毛棉圆领针织衫",
+    "material": "50%羊毛50%棉",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS6302",
+      "季节": "春夏款",
+      "材质": "50%羊毛50%棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "16G",
+      "颜色": "W0081",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/fb2b2560f9b650b8fa.webp"
+    ],
+    "sourcePage": 30,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6902",
+    "season": "ss",
+    "name": "Giza45埃及棉海鸥领针织衫",
+    "material": "100%Giza45埃及棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6902",
+      "季节": "春夏款",
+      "材质": "100%Giza45埃及棉",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "打花",
+      "针种": "18G",
+      "颜色": "浅天兰114103",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/80b3c3c05825cfef83.webp"
+    ],
+    "sourcePage": 36,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6903",
+    "season": "ss",
+    "name": "海岛棉圆领针织衫",
+    "material": "100%海岛棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6903",
+      "季节": "春夏款",
+      "材质": "100%海岛棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "打花",
+      "针种": "16G",
+      "颜色": "黑色109",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/1443f43e1df7bbee71.webp"
+    ],
+    "sourcePage": 38,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6904",
+    "season": "ss",
+    "name": "Giza45埃及棉圆领针织衫",
+    "material": "100%Giza45埃及棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6904",
+      "季节": "春夏款",
+      "材质": "100%Giza45埃及棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "华夫格",
+      "针种": "16G",
+      "颜色": "军绿37S",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/69aef7da3126a48b38.webp"
+    ],
+    "sourcePage": 40,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6905",
+    "season": "ss",
+    "name": "superpiuma棉圆领针织衫",
+    "material": "100%superpiuma棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6905",
+      "季节": "春夏款",
+      "材质": "100%superpiuma棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "令士",
+      "针种": "16G",
+      "颜色": "天蓝SKY",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/3b127a84e0c426b42f.webp"
+    ],
+    "sourcePage": 42,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6906",
+    "season": "ss",
+    "name": "Giza45埃及棉圆领针织衫",
+    "material": "100%Giza45埃及棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6906",
+      "季节": "春夏款",
+      "材质": "100%Giza45埃及棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "打花",
+      "针种": "16G",
+      "颜色": "紫色114056",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/be28660dfd61277b86.webp"
+    ],
+    "sourcePage": 44,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6907",
+    "season": "ss",
+    "name": "棉圆领针织衫",
+    "material": "100%棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6907",
+      "季节": "春夏款",
+      "材质": "100%棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "打花",
+      "针种": "7G",
+      "颜色": "宝兰5023",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/796d96987c62fefb9f.webp"
+    ],
+    "sourcePage": 46,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6908",
+    "season": "ss",
+    "name": "绢丝亚麻圆领针织衫",
+    "material": "55%绢丝45%亚麻",
+    "neck": "圆领",
+    "group": "linen",
+    "specs": {
+      "款号": "DS6908",
+      "季节": "春夏款",
+      "材质": "55%绢丝45%亚麻",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "16G",
+      "颜色": "土黄SL10",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/4c0a3b508780901a90.webp"
+    ],
+    "sourcePage": 48,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6910",
+    "season": "ss",
+    "name": "长绒棉天丝V领针织衫",
+    "material": "70%长绒棉30%天丝",
+    "neck": "V领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6910",
+      "季节": "春夏款",
+      "材质": "70%长绒棉30%天丝",
+      "领型": "V领",
+      "肩型": "弯夹肩",
+      "肌理": "坑条",
+      "针种": "16G",
+      "颜色": "枣红FS18",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/3e2b7bfb76767c11fc.webp"
+    ],
+    "sourcePage": 54,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6911",
+    "season": "ss",
+    "name": "长绒棉天丝圆领针织衫",
+    "material": "70%长绒棉30%天丝",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6911",
+      "季节": "春夏款",
+      "材质": "70%长绒棉30%天丝",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "坑条",
+      "针种": "16针",
+      "颜色": "枣红FS18",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/1a07d1065f6906c1fa.webp"
+    ],
+    "sourcePage": 56,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6912",
+    "season": "ss",
+    "name": "长绒棉天丝圆领针织衫",
+    "material": "70%长绒棉30%天丝",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6912",
+      "季节": "春夏款",
+      "材质": "70%长绒棉30%天丝",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "坑条",
+      "针种": "16针",
+      "颜色": "枣红FS18",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/2b4c4adb8da2b56e39.webp"
+    ],
+    "sourcePage": 58,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6913",
+    "season": "ss",
+    "name": "长绒棉海鸥领针织衫",
+    "material": "100%长绒棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6913",
+      "季节": "春夏款",
+      "材质": "100%长绒棉",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "打花",
+      "针种": "16针",
+      "颜色": "藏青色4736NYYD01-01",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/8461482d121d09ef78.webp"
+    ],
+    "sourcePage": 60,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6914",
+    "season": "ss",
+    "name": "亚麻圆领针织衫",
+    "material": "100%亚麻",
+    "neck": "圆领",
+    "group": "linen",
+    "specs": {
+      "款号": "DS6914",
+      "季节": "春夏款",
+      "材质": "100%亚麻",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "坑条",
+      "针种": "7针",
+      "尺码": "S–3XL",
+      "颜色": ""
+    },
+    "images": [
+      "assets/a92184ebcd6ece6802.webp"
+    ],
+    "sourcePage": 62,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6915",
+    "season": "ss",
+    "name": "亚麻针织衫",
+    "material": "100%亚麻",
+    "neck": "",
+    "group": "linen",
+    "specs": {
+      "款号": "DS6915",
+      "季节": "春夏款",
+      "材质": "100%亚麻",
+      "肌理": "坑条",
+      "针种": "7针",
+      "尺码": "S–3XL",
+      "颜色": ""
+    },
+    "images": [
+      "assets/a026353a728f26962b.webp"
+    ],
+    "sourcePage": 64,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6916",
+    "season": "ss",
+    "name": "Giza45埃及棉海鸥领针织衫",
+    "material": "100%Giza45埃及棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6916",
+      "季节": "春夏款",
+      "材质": "100%Giza45埃及棉",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹（单边）",
+      "针种": "18针",
+      "尺码": "S–3XL",
+      "颜色": ""
+    },
+    "images": [
+      "assets/c5abde81e5016eff3a.webp"
+    ],
+    "sourcePage": 66,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6917",
+    "season": "ss",
+    "name": "桑蚕丝羊毛羊绒针织衫",
+    "material": "70%桑蚕丝20%羊毛10%羊绒",
+    "neck": "圆领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DS6917",
+      "季节": "春夏款",
+      "材质": "70%桑蚕丝20%羊毛10%羊绒",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "18针",
+      "尺码": "S–3XL",
+      "颜色": ""
+    },
+    "images": [
+      "assets/cc501e80a2f13f8205.webp"
+    ],
+    "sourcePage": 68,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6918",
+    "season": "ss",
+    "name": "羊毛圆领针织衫",
+    "material": "100%羊毛",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS6918",
+      "季节": "春夏款",
+      "材质": "100%羊毛",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "16针",
+      "尺码": "S–3XL",
+      "颜色": ""
+    },
+    "images": [
+      "assets/009367cd899d30aa13.webp"
+    ],
+    "sourcePage": 70,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6919",
+    "season": "ss",
+    "name": "羊毛桑蚕丝圆领针织衫",
+    "material": "70%羊毛30%桑蚕丝",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS6919",
+      "季节": "春夏款",
+      "材质": "70%羊毛30%桑蚕丝",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "16针",
+      "尺码": "S–3XL",
+      "颜色": ""
+    },
+    "images": [
+      "assets/edf106823b9daa40f4.webp"
+    ],
+    "sourcePage": 72,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6920",
+    "season": "ss",
+    "name": "superpiuma棉针织衫",
+    "material": "100%superpiuma棉",
+    "neck": "",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS6920",
+      "季节": "春夏款",
+      "材质": "100%superpiuma棉",
+      "肌理": "打机（双面）",
+      "针种": "16G",
+      "颜色": "藏青",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/428b63ce2b37db5a81.webp"
+    ],
+    "sourcePage": 74,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6921",
+    "season": "ss",
+    "name": "羊毛翻领针织衫",
+    "material": "100%羊毛",
+    "neck": "翻领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS6921",
+      "季节": "春夏款",
+      "材质": "100%羊毛",
+      "领型": "翻领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "18针",
+      "颜色": "灰色",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/63341eaef632c3f4f7.webp"
+    ],
+    "sourcePage": 76,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6922",
+    "season": "ss",
+    "name": "羊毛翻领针织衫",
+    "material": "100%羊毛",
+    "neck": "翻领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS6922",
+      "季节": "春夏款",
+      "材质": "100%羊毛",
+      "领型": "翻领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "18针",
+      "颜色": "绛红",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/edfcb4d54dd44943cf.webp"
+    ],
+    "sourcePage": 78,
+    "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DS6923",
+    "season": "ss",
+    "name": "羊毛圆领针织衫",
+    "material": "100%羊毛",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS6923",
+      "季节": "春夏款",
+      "材质": "100%羊毛",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "单边",
+      "针种": "16针",
+      "颜色": "赭石",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/c17f8a7c73d15966a4.webp"
+    ],
+    "sourcePage": 80,
+    "sourceBook": "2026春夏"
+  }
+]
