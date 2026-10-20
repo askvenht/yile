@@ -1055,5 +1055,1815 @@
     ],
     "sourcePage": 80,
     "sourceBook": "2026春夏"
+  },
+  {
+    "id": "DW5906",
+    "season": "aw",
+    "name": "美利奴纯羊毛圆领毛衫",
+    "material": "2/26Nm100%美利奴纯羊毛",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW5906",
+      "季节": "秋冬款",
+      "材质": "2/26Nm100%美利奴纯羊毛",
+      "领型": "圆领",
+      "肩型": "马鞍肩",
+      "肌理": "坑条扭绳",
+      "针种": "7G",
+      "颜色": "ZE120590鹅黄",
+      "尺码": "S–3XL",
+      "克重": "580g（XL）"
+    },
+    "images": [
+      "assets/d34338721a4aa4a2fe.webp"
+    ],
+    "sourcePage": 4,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW5907",
+    "season": "aw",
+    "name": "羊毛海军领毛衫",
+    "material": "德国扬子15.5微米100%羊毛",
+    "neck": "海军领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW5907",
+      "季节": "秋冬款",
+      "材质": "德国扬子15.5微米100%羊毛",
+      "领型": "海军领",
+      "肩型": "插肩",
+      "肌理": "莱卡",
+      "针种": "14G",
+      "颜色": "8M0005深灰色",
+      "尺码": "S–3XL",
+      "克重": "885g（L）"
+    },
+    "images": [
+      "assets/5082f17778108a3dac.webp"
+    ],
+    "sourcePage": 6,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW5901",
+    "season": "aw",
+    "name": "美利奴纯羊毛圆领毛衫",
+    "material": "2/26NM100%美利奴纯羊毛",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW5901",
+      "季节": "秋冬款",
+      "材质": "2/26NM100%美利奴纯羊毛",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "华夫格",
+      "针种": "7G",
+      "颜色": "燕麦色ZE325835",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/68c699cf1ebc61d029.webp"
+    ],
+    "sourcePage": 8,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW5902",
+    "season": "aw",
+    "name": "美丽诺羊毛棉化纤连帽毛衫",
+    "material": "55%美丽诺羊毛30%棉15%化纤",
+    "neck": "连帽",
+    "group": "wool",
+    "specs": {
+      "款号": "DW5902",
+      "季节": "秋冬款",
+      "材质": "55%美丽诺羊毛30%棉15%化纤",
+      "领型": "连帽",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "3G",
+      "颜色": "梵星蓝YD038",
+      "尺码": "S–3XL",
+      "克重": "786g（M）"
+    },
+    "images": [
+      "assets/da5f45495718d017ff.webp"
+    ],
+    "sourcePage": 10,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW5903",
+    "season": "aw",
+    "name": "美丽诺羊毛棉化纤圆领毛衫",
+    "material": "55%美丽诺羊毛30%棉15%化纤",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW5903",
+      "季节": "秋冬款",
+      "材质": "55%美丽诺羊毛30%棉15%化纤",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "3G",
+      "颜色": "红豆咖YD034",
+      "尺码": "S–3XL",
+      "克重": "493g（M）"
+    },
+    "images": [
+      "assets/285894f4c824ac6c45.webp"
+    ],
+    "sourcePage": 12,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW5904",
+    "season": "aw",
+    "name": "纯美丽诺羊毛POLO领毛衫",
+    "material": "100%纯美丽诺羊毛",
+    "neck": "POLO领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW5904",
+      "季节": "秋冬款",
+      "材质": "100%纯美丽诺羊毛",
+      "领型": "POLO领",
+      "肩型": "弯夹肩",
+      "肌理": "令士坑条",
+      "针种": "7G",
+      "颜色": "燕麦色ZE325835",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/c197de5b7e368fecef.webp"
+    ],
+    "sourcePage": 14,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW5701",
+    "season": "aw",
+    "name": "康赛妮Baby 小山羊绒POLO领毛衫",
+    "material": "康赛妮100%baby小山羊绒",
+    "neck": "POLO领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW5701",
+      "季节": "秋冬款",
+      "材质": "康赛妮100%baby小山羊绒",
+      "领型": "POLO领",
+      "肩型": "弯夹肩",
+      "肌理": "华夫格",
+      "针种": "7G",
+      "颜色": "B026",
+      "尺码": "S–3XL",
+      "克重": "452g（M）"
+    },
+    "images": [
+      "assets/d9abdd0140a97df81d.webp"
+    ],
+    "sourcePage": 16,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW5301",
+    "season": "aw",
+    "name": "美利奴超细精纺羊毛针织长裤",
+    "material": "可机洗100%美利奴超细精纺羊毛",
+    "neck": "",
+    "group": "wool",
+    "specs": {
+      "款号": "DW5301",
+      "季节": "秋冬款",
+      "材质": "可机洗100%美利奴超细精纺羊毛",
+      "肌理": "打机双层",
+      "针种": "14G",
+      "颜色": "W0004",
+      "尺码": "S–3XL",
+      "克重": "718g（L）",
+      "裤型": "直筒"
+    },
+    "images": [
+      "assets/86eee57c3c80872878.webp"
+    ],
+    "sourcePage": 18,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW5101",
+    "season": "aw",
+    "name": "长绒棉毛衫",
+    "material": "可机洗100%烧毛丝光长绒棉",
+    "neck": "",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW5101",
+      "季节": "秋冬款",
+      "材质": "可机洗100%烧毛丝光长绒棉",
+      "肌理": "打机双层",
+      "针种": "14G",
+      "颜色": "SL057",
+      "尺码": "S–3XL",
+      "克重": "677g（L）"
+    },
+    "images": [
+      "assets/b21890799232570626.webp"
+    ],
+    "sourcePage": 20,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4101",
+    "season": "aw",
+    "name": "长绒棉POLO领毛衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "POLO领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4101",
+      "季节": "秋冬款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "Polo领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "SL060",
+      "尺码": "S–3XL",
+      "克重": "346g（L）"
+    },
+    "images": [
+      "assets/4450c39d1fbfa68f2d.webp"
+    ],
+    "sourcePage": 25,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4102",
+    "season": "aw",
+    "name": "长绒棉半高领毛衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "半高领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4102",
+      "季节": "秋冬款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "半高领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "SL077",
+      "尺码": "S–3XL",
+      "克重": "318g（XL）"
+    },
+    "images": [
+      "assets/6d1107cccbc32884da.webp"
+    ],
+    "sourcePage": 27,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4103",
+    "season": "aw",
+    "name": "长绒棉圆领毛衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4103",
+      "季节": "秋冬款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "SL052",
+      "尺码": "S–3XL",
+      "克重": "271g（M）"
+    },
+    "images": [
+      "assets/64aa4c4b70dc8ca942.webp"
+    ],
+    "sourcePage": 29,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4104",
+    "season": "aw",
+    "name": "长绒棉圆领毛衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4104",
+      "季节": "秋冬款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "坑条",
+      "针种": "14G",
+      "颜色": "SL065",
+      "尺码": "S–3XL",
+      "克重": "309g（L）"
+    },
+    "images": [
+      "assets/6ac0a1930c4a43ad8f.webp"
+    ],
+    "sourcePage": 31,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4105",
+    "season": "aw",
+    "name": "长绒棉圆领毛衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4105",
+      "季节": "秋冬款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "打花",
+      "针种": "14G",
+      "颜色": "SL052",
+      "尺码": "S–3XL",
+      "克重": "307g（L）"
+    },
+    "images": [
+      "assets/83e748e3224e29ec76.webp"
+    ],
+    "sourcePage": 33,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4106",
+    "season": "aw",
+    "name": "长绒棉高领毛衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "高领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4106",
+      "季节": "秋冬款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "高领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "SL020",
+      "尺码": "S–3XL",
+      "克重": "315g（L）"
+    },
+    "images": [
+      "assets/fe2ae8bd11972ac340.webp"
+    ],
+    "sourcePage": 35,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4107",
+    "season": "aw",
+    "name": "长绒棉V领毛衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "V领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4107",
+      "季节": "秋冬款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "V领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "16G",
+      "颜色": "SL060",
+      "尺码": "S–3XL",
+      "克重": "400g（M）"
+    },
+    "images": [
+      "assets/7d11e747539120e763.webp"
+    ],
+    "sourcePage": 37,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4108",
+    "season": "aw",
+    "name": "长绒棉V领毛衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "V领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4108",
+      "季节": "秋冬款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "V领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "14G",
+      "颜色": "SL057",
+      "尺码": "S–3XL",
+      "克重": "590g（L）"
+    },
+    "images": [
+      "assets/9e94234860fb9a99a5.webp"
+    ],
+    "sourcePage": 39,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4301",
+    "season": "aw",
+    "name": "精纺羊毛圆领毛衫",
+    "material": "可机洗100%精纺羊毛",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4301",
+      "季节": "秋冬款",
+      "材质": "可机洗100%精纺羊毛",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "W0081",
+      "尺码": "S–3XL",
+      "克重": "298g（M）"
+    },
+    "images": [
+      "assets/b40f6f0c85b0c50216.webp"
+    ],
+    "sourcePage": 43,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4302",
+    "season": "aw",
+    "name": "精纺羊毛半高领（中领）毛衫",
+    "material": "可机洗100%精纺羊毛",
+    "neck": "半高领（中领）",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4302",
+      "季节": "秋冬款",
+      "材质": "可机洗100%精纺羊毛",
+      "领型": "半高领（中领）",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "W0064",
+      "尺码": "S–3XL",
+      "克重": "310g（XL）"
+    },
+    "images": [
+      "assets/2c5e4dff9552b2cb1b.webp"
+    ],
+    "sourcePage": 45,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4303",
+    "season": "aw",
+    "name": "精纺羊毛可翻高领毛衫",
+    "material": "可机洗100%精纺羊毛",
+    "neck": "可翻高领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4303",
+      "季节": "秋冬款",
+      "材质": "可机洗100%精纺羊毛",
+      "领型": "可翻高领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "W0090",
+      "尺码": "S–3XL",
+      "克重": "297g（M）"
+    },
+    "images": [
+      "assets/f89102ebaae3d376e3.webp"
+    ],
+    "sourcePage": 47,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4304",
+    "season": "aw",
+    "name": "精纺羊毛POLO领毛衫",
+    "material": "可机洗100%精纺羊毛",
+    "neck": "POLO领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4304",
+      "季节": "秋冬款",
+      "材质": "可机洗100%精纺羊毛",
+      "领型": "Polo领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "W0102",
+      "尺码": "S–3XL",
+      "克重": "362g（L）"
+    },
+    "images": [
+      "assets/f9a20bc4bbd70f02e9.webp"
+    ],
+    "sourcePage": 49,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4305",
+    "season": "aw",
+    "name": "精纺羊毛海鸥领毛衫",
+    "material": "可机洗100%精纺羊毛",
+    "neck": "海鸥领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4305",
+      "季节": "秋冬款",
+      "材质": "可机洗100%精纺羊毛",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "W0064",
+      "尺码": "S–3XL",
+      "克重": "324g（L）"
+    },
+    "images": [
+      "assets/692e410a44631878ef.webp"
+    ],
+    "sourcePage": 51,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4306",
+    "season": "aw",
+    "name": "精纺羊毛开衫",
+    "material": "可机洗100%精纺羊毛",
+    "neck": "",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4306",
+      "季节": "秋冬款",
+      "材质": "可机洗100%精纺羊毛",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "W0007",
+      "尺码": "S–3XL",
+      "克重": "375g（L）",
+      "款式": "开衫"
+    },
+    "images": [
+      "assets/49a3b685e0e7118b22.webp"
+    ],
+    "sourcePage": 53,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4307",
+    "season": "aw",
+    "name": "精纺羊毛半高领毛衫",
+    "material": "可机洗100%精纺羊毛",
+    "neck": "半高领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4307",
+      "季节": "秋冬款",
+      "材质": "可机洗100%精纺羊毛",
+      "领型": "半高领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "14G",
+      "颜色": "W0033",
+      "尺码": "S–3XL",
+      "克重": "770g（L）"
+    },
+    "images": [
+      "assets/615be3402cecce2906.webp"
+    ],
+    "sourcePage": 55,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4308",
+    "season": "aw",
+    "name": "精纺羊毛开衫",
+    "material": "可机洗100%精纺羊毛",
+    "neck": "",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4308",
+      "季节": "秋冬款",
+      "材质": "可机洗100%精纺羊毛",
+      "肩型": "弯夹肩",
+      "肌理": "莱卡",
+      "针种": "14G",
+      "颜色": "W0081",
+      "尺码": "S–3XL",
+      "克重": "869g（L）",
+      "款式": "开衫"
+    },
+    "images": [
+      "assets/8c7561681743083b42.webp"
+    ],
+    "sourcePage": 57,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4309",
+    "season": "aw",
+    "name": "精纺羊毛针织长裤",
+    "material": "可机洗100%精纺羊毛",
+    "neck": "",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4309",
+      "季节": "秋冬款",
+      "材质": "可机洗100%精纺羊毛",
+      "肌理": "莱卡",
+      "针种": "14G",
+      "颜色": "W0081",
+      "尺码": "S–3XL",
+      "裤型": "直筒",
+      "闭合方式": "松紧带"
+    },
+    "images": [
+      "assets/83f787ea5140a310de.webp"
+    ],
+    "sourcePage": 59,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4314",
+    "season": "aw",
+    "name": "精纺羊毛毛衫",
+    "material": "可机洗100%精纺羊毛",
+    "neck": "",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4314",
+      "季节": "秋冬款",
+      "材质": "可机洗100%精纺羊毛",
+      "肩型": "弯夹肩",
+      "肌理": "坑条",
+      "针种": "16G",
+      "颜色": "W0034",
+      "尺码": "S–3XL",
+      "克重": "342g（L）",
+      "款式": "圆领套头衫"
+    },
+    "images": [
+      "assets/185a2ed256b4b3a993.webp"
+    ],
+    "sourcePage": 61,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4601",
+    "season": "aw",
+    "name": "精纺羊绒圆领毛衫",
+    "material": "100%精纺羊绒",
+    "neck": "圆领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW4601",
+      "季节": "秋冬款",
+      "材质": "100%精纺羊绒",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "18G",
+      "颜色": "S1623",
+      "尺码": "S–3XL",
+      "克重": "187g（L）"
+    },
+    "images": [
+      "assets/c517e74b5d92883ae8.webp"
+    ],
+    "sourcePage": 75,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4602",
+    "season": "aw",
+    "name": "精纺羊绒海鸥领毛衫",
+    "material": "100%精纺羊绒",
+    "neck": "海鸥领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW4602",
+      "季节": "秋冬款",
+      "材质": "100%精纺羊绒",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "S1623",
+      "尺码": "S–3XL",
+      "克重": "201g（M）"
+    },
+    "images": [
+      "assets/c41ffb6555323407ac.webp"
+    ],
+    "sourcePage": 77,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4603",
+    "season": "aw",
+    "name": "精纺羊绒圆领毛衫",
+    "material": "100%精纺羊绒",
+    "neck": "圆领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW4603",
+      "季节": "秋冬款",
+      "材质": "100%精纺羊绒",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "S1623",
+      "尺码": "S–3XL",
+      "克重": "302g（L）"
+    },
+    "images": [
+      "assets/4cd9e3c9faccc60e3d.webp"
+    ],
+    "sourcePage": 79,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4701",
+    "season": "aw",
+    "name": "粗纺Baby 小山羊绒圆领毛衫",
+    "material": "100%粗纺baby小山羊绒",
+    "neck": "圆领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW4701",
+      "季节": "秋冬款",
+      "材质": "100%粗纺baby小山羊绒",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "B026",
+      "尺码": "S–3XL",
+      "克重": "229g（M）"
+    },
+    "images": [
+      "assets/7617bcd1a1992dd9c4.webp"
+    ],
+    "sourcePage": 83,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4702",
+    "season": "aw",
+    "name": "粗纺Baby 小山羊绒圆领毛衫",
+    "material": "100%粗纺baby小山羊绒",
+    "neck": "圆领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW4702",
+      "季节": "秋冬款",
+      "材质": "100%粗纺baby小山羊绒",
+      "领型": "圆领",
+      "肩型": "马鞍肩",
+      "肌理": "平纹",
+      "针种": "7G",
+      "颜色": "B026",
+      "尺码": "S–3XL",
+      "克重": "339g（L）"
+    },
+    "images": [
+      "assets/332887741ffeb05ac4.webp"
+    ],
+    "sourcePage": 85,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4703",
+    "season": "aw",
+    "name": "粗纺Baby 小山羊绒半高领毛衫",
+    "material": "100%粗纺baby小山羊绒",
+    "neck": "半高领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW4703",
+      "季节": "秋冬款",
+      "材质": "100%粗纺baby小山羊绒",
+      "领型": "半高领",
+      "肩型": "弯夹肩",
+      "肌理": "麻花扭绳",
+      "针种": "7G",
+      "颜色": "B034",
+      "尺码": "S–3XL",
+      "克重": "531g（L）"
+    },
+    "images": [
+      "assets/692e8cb2d3e4bfc759.webp"
+    ],
+    "sourcePage": 87,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4801",
+    "season": "aw",
+    "name": "精纺Baby 小山羊绒半高领毛衫",
+    "material": "3/80Nm100%精纺baby小山羊绒",
+    "neck": "半高领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW4801",
+      "季节": "秋冬款",
+      "材质": "3/80Nm100%精纺baby小山羊绒",
+      "领型": "半高领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "XC210265",
+      "尺码": "S–3XL",
+      "克重": "192g（L）"
+    },
+    "images": [
+      "assets/f9146cc9a52c2985d4.webp"
+    ],
+    "sourcePage": 91,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4802",
+    "season": "aw",
+    "name": "精纺Baby 小山羊绒半高领毛衫",
+    "material": "3/80Nm100%精纺baby小山羊绒",
+    "neck": "半高领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW4802",
+      "季节": "秋冬款",
+      "材质": "3/80Nm100%精纺baby小山羊绒",
+      "领型": "半高领",
+      "肩型": "弯夹肩",
+      "肌理": "打机（厚款）",
+      "针种": "16G",
+      "颜色": "XC21044M",
+      "尺码": "S–3XL",
+      "克重": "382g（L）"
+    },
+    "images": [
+      "assets/f90c04197a64b44fd1.webp"
+    ],
+    "sourcePage": 93,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4803",
+    "season": "aw",
+    "name": "精纺Baby 小山羊绒圆领毛衫",
+    "material": "3/80Nm100%精纺baby小山羊绒",
+    "neck": "圆领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DW4803",
+      "季节": "秋冬款",
+      "材质": "3/80Nm100%精纺baby小山羊绒",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "18G",
+      "颜色": "XA19021",
+      "尺码": "S–3XL",
+      "克重": "225g（L）"
+    },
+    "images": [
+      "assets/263efe23fb322d4b30.webp"
+    ],
+    "sourcePage": 95,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4901",
+    "season": "aw",
+    "name": "精纺羊毛半高领毛衫",
+    "material": "BiellaYarn15.5μm100%精纺羊毛",
+    "neck": "半高领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4901",
+      "季节": "秋冬款",
+      "材质": "BiellaYarn15.5μm100%精纺羊毛",
+      "领型": "半高领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "8M0005深灰、9E1660黑色",
+      "尺码": "S–3XL",
+      "克重": "307g（L）"
+    },
+    "images": [
+      "assets/2de8ecc7ec69855210.webp"
+    ],
+    "sourcePage": 99,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4902",
+    "season": "aw",
+    "name": "匹马棉圆领毛衫",
+    "material": "100%匹马棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4902",
+      "季节": "秋冬款",
+      "材质": "100%匹马棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "18G",
+      "颜色": "SEA碧绿",
+      "尺码": "S–3XL",
+      "克重": "205g（L）"
+    },
+    "images": [
+      "assets/ca12f192cb6ad5cfc4.webp"
+    ],
+    "sourcePage": 103,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4903",
+    "season": "aw",
+    "name": "吉萨棉圆领毛衫",
+    "material": "100%吉萨棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4903",
+      "季节": "秋冬款",
+      "材质": "100%吉萨棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "18G",
+      "颜色": "60GI水兰",
+      "尺码": "S–3XL",
+      "克重": "364g（L）"
+    },
+    "images": [
+      "assets/b437ba63fbcc40d6f3.webp"
+    ],
+    "sourcePage": 107,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4907",
+    "season": "aw",
+    "name": "吉萨棉半高领毛衫",
+    "material": "100%吉萨棉",
+    "neck": "半高领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4907",
+      "季节": "秋冬款",
+      "材质": "100%吉萨棉",
+      "领型": "半高领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "18G",
+      "颜色": "37S军绿",
+      "尺码": "S–3XL",
+      "克重": "178g（L）"
+    },
+    "images": [
+      "assets/25cbfbf23e5a5861f5.webp"
+    ],
+    "sourcePage": 109,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4904",
+    "season": "aw",
+    "name": "苏文棉圆领毛衫",
+    "material": "100%苏文棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DW4904",
+      "季节": "秋冬款",
+      "材质": "100%苏文棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "18G",
+      "颜色": "SM01浅银灰",
+      "尺码": "S–3XL",
+      "克重": "408g（L）"
+    },
+    "images": [
+      "assets/e8a882dffd75400aa3.webp"
+    ],
+    "sourcePage": 111,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DW4906",
+    "season": "aw",
+    "name": "羊毛半高领毛衫",
+    "material": "100%羊毛",
+    "neck": "半高领",
+    "group": "wool",
+    "specs": {
+      "款号": "DW4906",
+      "季节": "秋冬款",
+      "材质": "100%羊毛",
+      "领型": "半高领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "7G",
+      "颜色": "藏青",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/cf9cf8885ae4394aa6.webp"
+    ],
+    "sourcePage": 115,
+    "sourceBook": "秋冬经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS5106",
+    "season": "ss",
+    "name": "长绒棉海鸥领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS5106",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "大坑条",
+      "针种": "14G",
+      "颜色": "SL066",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/fbffb343379f05b093.webp"
+    ],
+    "sourcePage": 8,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS5104",
+    "season": "ss",
+    "name": "长绒棉海鸥领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS5104",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "单边空针",
+      "针种": "14G",
+      "颜色": "SL066",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/c54998a9d3dddf75cd.webp"
+    ],
+    "sourcePage": 10,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS5105",
+    "season": "ss",
+    "name": "长绒棉圆领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS5105",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "单边空针",
+      "针种": "14G",
+      "颜色": "SL077",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/7887f5b45476caa585.webp"
+    ],
+    "sourcePage": 12,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4101",
+    "season": "ss",
+    "name": "长绒棉POLO领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "POLO领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS4101",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "Polo领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "SL060",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/e064fca98b825daaf0.webp"
+    ],
+    "sourcePage": 14,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4103",
+    "season": "ss",
+    "name": "长绒棉POLO领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "POLO领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS4103",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "Polo领",
+      "肩型": "弯夹肩",
+      "肌理": "令士坑条",
+      "针种": "14G",
+      "颜色": "SL077",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/06f7a56f70b76c3013.webp"
+    ],
+    "sourcePage": 16,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4108",
+    "season": "ss",
+    "name": "长绒棉圆领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS4108",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "SL066",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/8efc187bd11301bcd0.webp"
+    ],
+    "sourcePage": 18,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4102",
+    "season": "ss",
+    "name": "长绒棉海鸥领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS4102",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "SL066",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/13801703a23ec76db3.webp"
+    ],
+    "sourcePage": 20,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4105",
+    "season": "ss",
+    "name": "长绒棉海鸥领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS4105",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "打花",
+      "针种": "14G",
+      "颜色": "SL052",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/cb9d2c21aaeb323779.webp"
+    ],
+    "sourcePage": 22,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4107",
+    "season": "ss",
+    "name": "长绒棉海鸥领针织衫",
+    "material": "100%烧毛丝光长绒棉",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS4107",
+      "季节": "春夏款",
+      "材质": "100%烧毛丝光长绒棉",
+      "领型": "海鸥领",
+      "肩型": "马鞍肩",
+      "肌理": "令士坑条",
+      "针种": "14G",
+      "颜色": "SL070",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/1f80e86759a6faa564.webp"
+    ],
+    "sourcePage": 24,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS5201",
+    "season": "ss",
+    "name": "亚麻亨利领针织衫",
+    "material": "100%亚麻",
+    "neck": "亨利领",
+    "group": "linen",
+    "specs": {
+      "款号": "DS5201",
+      "季节": "春夏款",
+      "材质": "100%亚麻",
+      "领型": "亨利领",
+      "肩型": "弯夹肩",
+      "肌理": "令士+坑条",
+      "针种": "7G",
+      "颜色": "XA05",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/7eacbc6da83301eadc.webp"
+    ],
+    "sourcePage": 28,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4204",
+    "season": "ss",
+    "name": "亚麻海鸥领针织衫",
+    "material": "100%亚麻",
+    "neck": "海鸥领",
+    "group": "linen",
+    "specs": {
+      "款号": "DS4204",
+      "季节": "春夏款",
+      "材质": "100%亚麻",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "坑条",
+      "针种": "14G",
+      "颜色": "XA35",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/d3938d15a2f65c3e0d.webp"
+    ],
+    "sourcePage": 34,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4201",
+    "season": "ss",
+    "name": "亚麻圆领针织衫",
+    "material": "100%亚麻",
+    "neck": "圆领",
+    "group": "linen",
+    "specs": {
+      "款号": "DS4201",
+      "季节": "春夏款",
+      "材质": "100%亚麻",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "XA05",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/682304253d15bab091.webp"
+    ],
+    "sourcePage": 36,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4202",
+    "season": "ss",
+    "name": "亚麻POLO领针织衫",
+    "material": "100%亚麻",
+    "neck": "POLO领",
+    "group": "linen",
+    "specs": {
+      "款号": "DS4202",
+      "季节": "春夏款",
+      "材质": "100%亚麻",
+      "领型": "Polo领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "XA24",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/26d9e140be3657d9a3.webp"
+    ],
+    "sourcePage": 38,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4203",
+    "season": "ss",
+    "name": "亚麻POLO领针织衫",
+    "material": "100%亚麻",
+    "neck": "POLO领",
+    "group": "linen",
+    "specs": {
+      "款号": "DS4203",
+      "季节": "春夏款",
+      "材质": "100%亚麻",
+      "领型": "Polo领",
+      "肩型": "马鞍肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "XA44",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/04ea70a48ad515753b.webp"
+    ],
+    "sourcePage": 40,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4207",
+    "season": "ss",
+    "name": "亚麻海鸥领针织衫",
+    "material": "100%亚麻",
+    "neck": "海鸥领",
+    "group": "linen",
+    "specs": {
+      "款号": "DS4207",
+      "季节": "春夏款",
+      "材质": "100%亚麻",
+      "领型": "海鸥领",
+      "肩型": "马鞍肩",
+      "肌理": "平纹",
+      "针种": "14G",
+      "颜色": "XA44",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/b5d26f06d3551114dd.webp"
+    ],
+    "sourcePage": 42,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4301",
+    "season": "ss",
+    "name": "羊毛圆领针织衫",
+    "material": "100%羊毛",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS4301",
+      "季节": "春夏款",
+      "材质": "100%羊毛",
+      "领型": "圆领",
+      "肩型": "马鞍肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "W0007",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/33892a535becd22bbb.webp"
+    ],
+    "sourcePage": 48,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4304",
+    "season": "ss",
+    "name": "羊毛POLO领针织衫",
+    "material": "100%羊毛",
+    "neck": "POLO领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS4304",
+      "季节": "春夏款",
+      "材质": "100%羊毛",
+      "领型": "Polo领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "W0069",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/4ec0ec05bd89f44be2.webp"
+    ],
+    "sourcePage": 50,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4303",
+    "season": "ss",
+    "name": "羊毛海鸥领针织衫",
+    "material": "100%羊毛",
+    "neck": "海鸥领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS4303",
+      "季节": "春夏款",
+      "材质": "100%羊毛",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "W0081",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/07b3ae1cb9e2de0c74.webp"
+    ],
+    "sourcePage": 52,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4302",
+    "season": "ss",
+    "name": "羊毛圆领针织衫",
+    "material": "100%羊毛",
+    "neck": "圆领",
+    "group": "wool",
+    "specs": {
+      "款号": "DS4302",
+      "季节": "春夏款",
+      "材质": "100%羊毛",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "W0102",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/7d2dbeba5bf98cb755.webp"
+    ],
+    "sourcePage": 54,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS5401",
+    "season": "ss",
+    "name": "长绒棉桑蚕丝海鸥领针织衫",
+    "material": "70%长绒棉30%桑蚕丝",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS5401",
+      "季节": "春夏款",
+      "材质": "70%长绒棉30%桑蚕丝",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "单边空针",
+      "针种": "14G",
+      "颜色": "STW-C1009",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/28d6293408e395a751.webp"
+    ],
+    "sourcePage": 58,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4401",
+    "season": "ss",
+    "name": "长绒棉桑蚕丝POLO领针织衫",
+    "material": "70%长绒棉30%桑蚕丝",
+    "neck": "POLO领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS4401",
+      "季节": "春夏款",
+      "材质": "70%长绒棉30%桑蚕丝",
+      "领型": "Polo领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "STW-C1002",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/a200fd1e064034c3b9.webp"
+    ],
+    "sourcePage": 60,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4406",
+    "season": "ss",
+    "name": "长绒棉桑蚕丝圆领针织衫",
+    "material": "70%长绒棉30%桑蚕丝",
+    "neck": "圆领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS4406",
+      "季节": "春夏款",
+      "材质": "70%长绒棉30%桑蚕丝",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "STW-C1009",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/8b8a3a5294af722af4.webp"
+    ],
+    "sourcePage": 62,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4404",
+    "season": "ss",
+    "name": "长绒棉桑蚕丝海鸥领针织衫",
+    "material": "70%长绒棉30%桑蚕丝",
+    "neck": "海鸥领",
+    "group": "cotton",
+    "specs": {
+      "款号": "DS4404",
+      "季节": "春夏款",
+      "材质": "70%长绒棉30%桑蚕丝",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "令士",
+      "针种": "16G",
+      "颜色": "STW-C1003",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/e771420d1dce884219.webp"
+    ],
+    "sourcePage": 66,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4505",
+    "season": "ss",
+    "name": "桑蚕丝POLO领针织衫",
+    "material": "100%桑蚕丝",
+    "neck": "POLO领",
+    "group": "silk",
+    "specs": {
+      "款号": "DS4505",
+      "季节": "春夏款",
+      "材质": "100%桑蚕丝",
+      "领型": "Polo领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "18G",
+      "颜色": "KS015",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/2f6cb02946725bac11.webp"
+    ],
+    "sourcePage": 71,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4502",
+    "season": "ss",
+    "name": "桑蚕丝POLO领针织衫",
+    "material": "100%桑蚕丝",
+    "neck": "POLO领",
+    "group": "silk",
+    "specs": {
+      "款号": "DS4502",
+      "季节": "春夏款",
+      "材质": "100%桑蚕丝",
+      "领型": "Polo领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "16G",
+      "颜色": "KS015",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/7f2ad9ee50ed537d47.webp"
+    ],
+    "sourcePage": 73,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4504",
+    "season": "ss",
+    "name": "桑蚕丝圆领针织衫",
+    "material": "100%桑蚕丝",
+    "neck": "圆领",
+    "group": "silk",
+    "specs": {
+      "款号": "DS4504",
+      "季节": "春夏款",
+      "材质": "100%桑蚕丝",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "16G",
+      "颜色": "KS003",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/b5b4291f231f2bb578.webp"
+    ],
+    "sourcePage": 75,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4503",
+    "season": "ss",
+    "name": "桑蚕丝海鸥领针织衫",
+    "material": "100%桑蚕丝",
+    "neck": "海鸥领",
+    "group": "silk",
+    "specs": {
+      "款号": "DS4503",
+      "季节": "春夏款",
+      "材质": "100%桑蚕丝",
+      "领型": "海鸥领",
+      "肩型": "弯夹肩",
+      "肌理": "打机",
+      "针种": "16G",
+      "颜色": "KS003",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/6f9b374266f082cef3.webp"
+    ],
+    "sourcePage": 77,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4601",
+    "season": "ss",
+    "name": "精纺羊绒圆领针织衫",
+    "material": "100%精纺羊绒",
+    "neck": "圆领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DS4601",
+      "季节": "春夏款",
+      "材质": "100%精纺羊绒",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "S1677",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/ededa5554ff4c5c8e4.webp"
+    ],
+    "sourcePage": 81,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
+  },
+  {
+    "id": "DS4602",
+    "season": "ss",
+    "name": "精纺羊绒圆领针织衫",
+    "material": "100%精纺羊绒",
+    "neck": "圆领",
+    "group": "cashmere",
+    "specs": {
+      "款号": "DS4602",
+      "季节": "春夏款",
+      "材质": "100%精纺羊绒",
+      "领型": "圆领",
+      "肩型": "弯夹肩",
+      "肌理": "平纹",
+      "针种": "16G",
+      "颜色": "S1677",
+      "尺码": "S–3XL"
+    },
+    "images": [
+      "assets/2dfcee7c544d5de93d.webp"
+    ],
+    "sourcePage": 83,
+    "sourceBook": "春夏经典",
+    "collection": "classic"
   }
 ]
